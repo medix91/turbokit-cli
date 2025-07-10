@@ -1,0 +1,24 @@
+{
+  "name": "turbokit",
+  "version": "1.0.0",
+  "description": "A blazing-fast CLI to scaffold modern front-end projects with your favorite stack.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "turbokit": "./bin/turbokit.mjs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "vite",
+    "tailwind",
+    "starter",
+    "scaffold",
+    "react",
+    "generator"
+  ],
+  "author": "Mehdi-Salim Zayani | TECHFULS",
+  "license": "MIT"
+}
