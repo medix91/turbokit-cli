@@ -20,5 +20,10 @@
     "generator"
   ],
   "author": "Mehdi-Salim Zayani | TECHFULS",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "figlet": "^1.8.1",
+    "inquirer": "^12.7.0"
+  }
 }
